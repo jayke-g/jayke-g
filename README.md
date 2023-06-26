@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayke-g
+- 👋 Hi, I’m Jayke!
 
 <!---
 jayke-g/jayke-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
